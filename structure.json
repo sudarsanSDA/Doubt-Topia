@@ -1,0 +1,1466 @@
+[
+  {
+    "name": "R20",
+    "type": "folder",
+    "path": "pdfs/R20",
+    "children": [
+      {
+        "name": "CSE",
+        "type": "folder",
+        "path": "pdfs/R20/CSE",
+        "children": [
+          {
+            "name": "1-YEAR",
+            "type": "folder",
+            "path": "pdfs/R20/CSE/1-YEAR",
+            "children": [
+              {
+                "name": "1-SEM",
+                "type": "folder",
+                "path": "pdfs/R20/CSE/1-YEAR/1-SEM",
+                "children": [
+                  {
+                    "name": "BEEE",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/1-SEM/BEEE",
+                    "children": [
+                      {
+                        "name": "BEEE-A-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/BEEE/BEEE-A-1.pdf"
+                      },
+                      {
+                        "name": "BEEE-A-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/BEEE/BEEE-A-2.pdf"
+                      },
+                      {
+                        "name": "BEEE-A-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/BEEE/BEEE-A-3.pdf"
+                      },
+                      {
+                        "name": "BEEE-B-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/BEEE/BEEE-B-1.pdf"
+                      },
+                      {
+                        "name": "BEEE-B-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/BEEE/BEEE-B-2.pdf"
+                      },
+                      {
+                        "name": "BEEE-B-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/BEEE/BEEE-B-3.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CHE",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CHE",
+                    "children": [
+                      {
+                        "name": "CHE-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CHE/CHE-1.pdf"
+                      },
+                      {
+                        "name": "CHE-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CHE/CHE-2.pdf"
+                      },
+                      {
+                        "name": "CHE-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CHE/CHE-3.pdf"
+                      },
+                      {
+                        "name": "CHE-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CHE/CHE-4.pdf"
+                      },
+                      {
+                        "name": "CHE-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CHE/CHE-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CPDS",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CPDS",
+                    "children": [
+                      {
+                        "name": "CPDS-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CPDS/CPDS-1.pdf"
+                      },
+                      {
+                        "name": "CPDS-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CPDS/CPDS-2.pdf"
+                      },
+                      {
+                        "name": "CPDS-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CPDS/CPDS-3.pdf"
+                      },
+                      {
+                        "name": "CPDS-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CPDS/CPDS-4.pdf"
+                      },
+                      {
+                        "name": "CPDS-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/CPDS/CPDS-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "LAC",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/1-SEM/LAC",
+                    "children": [
+                      {
+                        "name": "LAC -1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/LAC/LAC -1.pdf"
+                      },
+                      {
+                        "name": "LAC-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/LAC/LAC-2.pdf"
+                      },
+                      {
+                        "name": "LAC-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/LAC/LAC-3.pdf"
+                      },
+                      {
+                        "name": "LAC-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/LAC/LAC-4.pdf"
+                      },
+                      {
+                        "name": "LAC-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/1-SEM/LAC/LAC-5.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "2-SEM",
+                "type": "folder",
+                "path": "pdfs/R20/CSE/1-YEAR/2-SEM",
+                "children": [
+                  {
+                    "name": "AP",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/2-SEM/AP",
+                    "children": [
+                      {
+                        "name": "1-Unit-AP.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/AP/1-Unit-AP.pdf"
+                      },
+                      {
+                        "name": "2-Unit-AP.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/AP/2-Unit-AP.pdf"
+                      },
+                      {
+                        "name": "3-Unit-AP.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/AP/3-Unit-AP.pdf"
+                      },
+                      {
+                        "name": "4-Unit-AP.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/AP/4-Unit-AP.pdf"
+                      },
+                      {
+                        "name": "5-Unit-AP.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/AP/5-Unit-AP.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "ED",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ED",
+                    "children": [
+                      {
+                        "name": "ED-Unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ED/ED-Unit-1.pdf"
+                      },
+                      {
+                        "name": "ED-Unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ED/ED-Unit-2.pdf"
+                      },
+                      {
+                        "name": "ED-Unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ED/ED-Unit-3.pdf"
+                      },
+                      {
+                        "name": "ED-Unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ED/ED-Unit-4.pdf"
+                      },
+                      {
+                        "name": "ED-Unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ED/ED-Unit-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "ENG",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ENG",
+                    "children": [
+                      {
+                        "name": "CE-I-Unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ENG/CE-I-Unit-1.pdf"
+                      },
+                      {
+                        "name": "CE-I-Unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ENG/CE-I-Unit-2.pdf"
+                      },
+                      {
+                        "name": "CE-I-Unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ENG/CE-I-Unit-3.pdf"
+                      },
+                      {
+                        "name": "CE-I-Unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ENG/CE-I-Unit-4.pdf"
+                      },
+                      {
+                        "name": "CE-I-Unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/ENG/CE-I-Unit-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PPDS",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PPDS",
+                    "children": [
+                      {
+                        "name": "PPDS-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PPDS/PPDS-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "PPDS-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PPDS/PPDS-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "PPDS-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PPDS/PPDS-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "PPDS-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PPDS/PPDS-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "PPDS-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PPDS/PPDS-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "PS",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PS",
+                    "children": [
+                      {
+                        "name": "PS-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PS/PS-1.pdf"
+                      },
+                      {
+                        "name": "PS-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PS/PS-2.pdf"
+                      },
+                      {
+                        "name": "PS-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PS/PS-3.pdf"
+                      },
+                      {
+                        "name": "PS-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PS/PS-4.pdf"
+                      },
+                      {
+                        "name": "PS-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/1-YEAR/2-SEM/PS/PS-5.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "2-YEAR",
+            "type": "folder",
+            "path": "pdfs/R20/CSE/2-YEAR",
+            "children": [
+              {
+                "name": "1-SEM",
+                "type": "folder",
+                "path": "pdfs/R20/CSE/2-YEAR/1-SEM",
+                "children": [
+                  {
+                    "name": "ADSA",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/1-SEM/ADSA",
+                    "children": [
+                      {
+                        "name": "ADSA-1.PDF",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/ADSA/ADSA-1.PDF"
+                      },
+                      {
+                        "name": "ADSA-2.PDF",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/ADSA/ADSA-2.PDF"
+                      },
+                      {
+                        "name": "ADSA-3.PDF",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/ADSA/ADSA-3.PDF"
+                      },
+                      {
+                        "name": "ADSA-4.PDF",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/ADSA/ADSA-4.PDF"
+                      },
+                      {
+                        "name": "ADSA-5.PDF",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/ADSA/ADSA-5.PDF"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CO",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/1-SEM/CO",
+                    "children": [
+                      {
+                        "name": "CO-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/CO/CO-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "CO-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/CO/CO-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "CO-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/CO/CO-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "CO-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/CO/CO-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "CO-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/CO/CO-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "DEM",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DEM",
+                    "children": [
+                      {
+                        "name": "DEM-Unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DEM/DEM-Unit-1.pdf"
+                      },
+                      {
+                        "name": "DEM-Unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DEM/DEM-Unit-2.pdf"
+                      },
+                      {
+                        "name": "DEM-Unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DEM/DEM-Unit-3.pdf"
+                      },
+                      {
+                        "name": "DEM-Unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DEM/DEM-Unit-4.pdf"
+                      },
+                      {
+                        "name": "DEM-Unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DEM/DEM-Unit-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "DMGT",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DMGT",
+                    "children": [
+                      {
+                        "name": "DMGT-unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DMGT/DMGT-unit-1.pdf"
+                      },
+                      {
+                        "name": "DMGT-unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DMGT/DMGT-unit-2.pdf"
+                      },
+                      {
+                        "name": "DMGT-unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DMGT/DMGT-unit-3.pdf"
+                      },
+                      {
+                        "name": "DMGT-unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DMGT/DMGT-unit-4.pdf"
+                      },
+                      {
+                        "name": "DMGT-unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/DMGT/DMGT-unit-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "OOPJ",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/1-SEM/OOPJ",
+                    "children": [
+                      {
+                        "name": "OOPJ-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/OOPJ/OOPJ-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "OOPJ-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/OOPJ/OOPJ-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "OOPJ-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/OOPJ/OOPJ-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "OOPJ-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/OOPJ/OOPJ-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "OOPJ-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/OOPJ/OOPJ-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "UHV",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/1-SEM/UHV",
+                    "children": [
+                      {
+                        "name": "UHV-Notes-Units-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/UHV/UHV-Notes-Units-1.pdf"
+                      },
+                      {
+                        "name": "UHV-Notes-Units-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/UHV/UHV-Notes-Units-2.pdf"
+                      },
+                      {
+                        "name": "UHV-Notes-Units-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/UHV/UHV-Notes-Units-3.pdf"
+                      },
+                      {
+                        "name": "UHV-Notes-Units-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/UHV/UHV-Notes-Units-4.pdf"
+                      },
+                      {
+                        "name": "UHV-Notes-Units-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/1-SEM/UHV/UHV-Notes-Units-5.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "2-SEM",
+                "type": "folder",
+                "path": "pdfs/R20/CSE/2-YEAR/2-SEM",
+                "children": [
+                  {
+                    "name": "DBMS",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DBMS",
+                    "children": [
+                      {
+                        "name": "DBMS-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DBMS/DBMS-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "DBMS-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DBMS/DBMS-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "DBMS-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DBMS/DBMS-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "DBMS-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DBMS/DBMS-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "DBMS-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DBMS/DBMS-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "DSSM",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DSSM",
+                    "children": [
+                      {
+                        "name": "DSSM-Unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DSSM/DSSM-Unit-2.pdf"
+                      },
+                      {
+                        "name": "DSSM-Unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DSSM/DSSM-Unit-3.pdf"
+                      },
+                      {
+                        "name": "DSSM-unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DSSM/DSSM-unit-1.pdf"
+                      },
+                      {
+                        "name": "DSSM-unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DSSM/DSSM-unit-4.pdf"
+                      },
+                      {
+                        "name": "DSSM-unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/DSSM/DSSM-unit-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "OB",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OB",
+                    "children": [
+                      {
+                        "name": "OB-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OB/OB-1.pdf"
+                      },
+                      {
+                        "name": "OB-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OB/OB-2.pdf"
+                      },
+                      {
+                        "name": "OB-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OB/OB-3.pdf"
+                      },
+                      {
+                        "name": "OB-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OB/OB-4.pdf"
+                      },
+                      {
+                        "name": "OB-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OB/OB-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "OS",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OS",
+                    "children": [
+                      {
+                        "name": "OS-unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OS/OS-unit-1.pdf"
+                      },
+                      {
+                        "name": "OS-unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OS/OS-unit-2.pdf"
+                      },
+                      {
+                        "name": "OS-unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OS/OS-unit-3.pdf"
+                      },
+                      {
+                        "name": "OS-unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OS/OS-unit-4.pdf"
+                      },
+                      {
+                        "name": "OS-unit-5-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OS/OS-unit-5-1.pdf"
+                      },
+                      {
+                        "name": "OS-unit-5-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/OS/OS-unit-5-2.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "SE",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/2-YEAR/2-SEM/SE",
+                    "children": [
+                      {
+                        "name": "SE-Unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/SE/SE-Unit-1.pdf"
+                      },
+                      {
+                        "name": "SE-Unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/SE/SE-Unit-2.pdf"
+                      },
+                      {
+                        "name": "SE-Unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/SE/SE-Unit-3.pdf"
+                      },
+                      {
+                        "name": "SE-Unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/SE/SE-Unit-4.pdf"
+                      },
+                      {
+                        "name": "SE-Unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/2-YEAR/2-SEM/SE/SE-Unit-5.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "3-YEAR",
+            "type": "folder",
+            "path": "pdfs/R20/CSE/3-YEAR",
+            "children": [
+              {
+                "name": "1-SEM",
+                "type": "folder",
+                "path": "pdfs/R20/CSE/3-YEAR/1-SEM",
+                "children": [
+                  {
+                    "name": "AI",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/1-SEM/AI",
+                    "children": [
+                      {
+                        "name": "AI-Unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/AI/AI-Unit-1.pdf"
+                      },
+                      {
+                        "name": "AI-Unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/AI/AI-Unit-2.pdf"
+                      },
+                      {
+                        "name": "AI-Unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/AI/AI-Unit-3.pdf"
+                      },
+                      {
+                        "name": "AI-Unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/AI/AI-Unit-4.pdf"
+                      },
+                      {
+                        "name": "AI-Unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/AI/AI-Unit-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "BT",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/1-SEM/BT",
+                    "children": [
+                      {
+                        "name": "BT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/BT/BT-1.pdf"
+                      },
+                      {
+                        "name": "BT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/BT/BT-2.pdf"
+                      },
+                      {
+                        "name": "BT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/BT/BT-3.pdf"
+                      },
+                      {
+                        "name": "BT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/BT/BT-4.pdf"
+                      },
+                      {
+                        "name": "BT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/BT/BT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CN",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/1-SEM/CN",
+                    "children": [
+                      {
+                        "name": "CN-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/CN/CN-1.pdf"
+                      },
+                      {
+                        "name": "CN-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/CN/CN-2.pdf"
+                      },
+                      {
+                        "name": "CN-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/CN/CN-3.pdf"
+                      },
+                      {
+                        "name": "CN-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/CN/CN-4.pdf"
+                      },
+                      {
+                        "name": "CN-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/CN/CN-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "FLAT",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/1-SEM/FLAT",
+                    "children": [
+                      {
+                        "name": "FLAT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/FLAT/FLAT-1.pdf"
+                      },
+                      {
+                        "name": "FLAT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/FLAT/FLAT-2.pdf"
+                      },
+                      {
+                        "name": "FLAT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/FLAT/FLAT-3.pdf"
+                      },
+                      {
+                        "name": "FLAT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/FLAT/FLAT-4.pdf"
+                      },
+                      {
+                        "name": "FLAT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/FLAT/FLAT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "SPM",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/1-SEM/SPM",
+                    "children": [
+                      {
+                        "name": "SPM-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/SPM/SPM-1.pdf"
+                      },
+                      {
+                        "name": "SPM-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/SPM/SPM-2.pdf"
+                      },
+                      {
+                        "name": "SPM-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/SPM/SPM-3.pdf"
+                      },
+                      {
+                        "name": "SPM-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/SPM/SPM-4.pdf"
+                      },
+                      {
+                        "name": "SPM-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/1-SEM/SPM/SPM-5.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "2-SEM",
+                "type": "folder",
+                "path": "pdfs/R20/CSE/3-YEAR/2-SEM",
+                "children": [
+                  {
+                    "name": "BVLSI",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/2-SEM/BVLSI",
+                    "children": [
+                      {
+                        "name": "BVLSI-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/BVLSI/BVLSI-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "BVLSI-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/BVLSI/BVLSI-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "BVLSI-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/BVLSI/BVLSI-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "BVLSI-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/BVLSI/BVLSI-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "BVLSI-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/BVLSI/BVLSI-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CD",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/2-SEM/CD",
+                    "children": [
+                      {
+                        "name": "CD-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/CD/CD-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "CD-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/CD/CD-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "CD-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/CD/CD-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "CD-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/CD/CD-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "CD-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/CD/CD-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "IOT",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/2-SEM/IOT",
+                    "children": [
+                      {
+                        "name": "IOT-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/IOT/IOT-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "IOT-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/IOT/IOT-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "IOT-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/IOT/IOT-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "IOT-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/IOT/IOT-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "IOT-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/IOT/IOT-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "ML",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ML",
+                    "children": [
+                      {
+                        "name": "ML-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ML/ML-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "ML-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ML/ML-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "ML-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ML/ML-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "ML-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ML/ML-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "ML-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ML/ML-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "ST",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ST",
+                    "children": [
+                      {
+                        "name": "ST-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ST/ST-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "ST-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ST/ST-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "ST-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ST/ST-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "ST-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ST/ST-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "ST-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/3-YEAR/2-SEM/ST/ST-UNIT-5.pdf"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "4-YEAR",
+            "type": "folder",
+            "path": "pdfs/R20/CSE/4-YEAR",
+            "children": [
+              {
+                "name": "1-SEM",
+                "type": "folder",
+                "path": "pdfs/R20/CSE/4-YEAR/1-SEM",
+                "children": [
+                  {
+                    "name": "CC",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CC",
+                    "children": [
+                      {
+                        "name": "CC-UNIT-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CC/CC-UNIT-1.pdf"
+                      },
+                      {
+                        "name": "CC-UNIT-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CC/CC-UNIT-2.pdf"
+                      },
+                      {
+                        "name": "CC-UNIT-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CC/CC-UNIT-3.pdf"
+                      },
+                      {
+                        "name": "CC-UNIT-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CC/CC-UNIT-4.pdf"
+                      },
+                      {
+                        "name": "CC-UNIT-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CC/CC-UNIT-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CEHT",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CEHT",
+                    "children": [
+                      {
+                        "name": "CEHT-Unit-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CEHT/CEHT-Unit-1.pdf"
+                      },
+                      {
+                        "name": "CEHT-Unit-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CEHT/CEHT-Unit-2.pdf"
+                      },
+                      {
+                        "name": "CEHT-Unit-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CEHT/CEHT-Unit-3.pdf"
+                      },
+                      {
+                        "name": "CEHT-Unit-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CEHT/CEHT-Unit-4.pdf"
+                      },
+                      {
+                        "name": "CEHT-Unit-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CEHT/CEHT-Unit-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "CNS",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CNS",
+                    "children": [
+                      {
+                        "name": "CNS-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CNS/CNS-1.pdf"
+                      },
+                      {
+                        "name": "CNS-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CNS/CNS-2.pdf"
+                      },
+                      {
+                        "name": "CNS-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CNS/CNS-3.pdf"
+                      },
+                      {
+                        "name": "CNS-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CNS/CNS-4.pdf"
+                      },
+                      {
+                        "name": "CNS-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/CNS/CNS-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "EI",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/4-YEAR/1-SEM/EI",
+                    "children": [
+                      {
+                        "name": "EI-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/EI/EI-1.pdf"
+                      },
+                      {
+                        "name": "EI-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/EI/EI-2.pdf"
+                      },
+                      {
+                        "name": "EI-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/EI/EI-3.pdf"
+                      },
+                      {
+                        "name": "EI-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/EI/EI-4.pdf"
+                      },
+                      {
+                        "name": "EI-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/EI/EI-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "FSD",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/4-YEAR/1-SEM/FSD",
+                    "children": [
+                      {
+                        "name": "FSD-1.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/FSD/FSD-1.pdf"
+                      },
+                      {
+                        "name": "FSD-2.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/FSD/FSD-2.pdf"
+                      },
+                      {
+                        "name": "FSD-3.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/FSD/FSD-3.pdf"
+                      },
+                      {
+                        "name": "FSD-4.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/FSD/FSD-4.pdf"
+                      },
+                      {
+                        "name": "FSD-5.pdf",
+                        "type": "file",
+                        "path": "pdfs/R20/CSE/4-YEAR/1-SEM/FSD/FSD-5.pdf"
+                      }
+                    ]
+                  },
+                  {
+                    "name": "HSEM",
+                    "type": "folder",
+                    "path": "pdfs/R20/CSE/4-YEAR/1-SEM/HSEM",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Syllbus",
+    "type": "folder",
+    "path": "pdfs/Syllbus",
+    "children": [
+      {
+        "name": "R20cse1.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse1.pdf"
+      },
+      {
+        "name": "R20cse11.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse11.pdf"
+      },
+      {
+        "name": "R20cse12.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse12.pdf"
+      },
+      {
+        "name": "R20cse2.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse2.pdf"
+      },
+      {
+        "name": "R20cse21.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse21.pdf"
+      },
+      {
+        "name": "R20cse22.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse22.pdf"
+      },
+      {
+        "name": "R20cse3.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse3.pdf"
+      },
+      {
+        "name": "R20cse31.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse31.pdf"
+      },
+      {
+        "name": "R20cse32.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse32.pdf"
+      },
+      {
+        "name": "R20cse4.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/R20cse4.pdf"
+      },
+      {
+        "name": "adsa.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/adsa.pdf"
+      },
+      {
+        "name": "ai.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ai.pdf"
+      },
+      {
+        "name": "ap.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ap.pdf"
+      },
+      {
+        "name": "beee.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/beee.pdf"
+      },
+      {
+        "name": "bt.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/bt.pdf"
+      },
+      {
+        "name": "bvlsi.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/bvlsi.pdf"
+      },
+      {
+        "name": "cc.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/cc.pdf"
+      },
+      {
+        "name": "cd.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/cd.pdf"
+      },
+      {
+        "name": "ce.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ce.pdf"
+      },
+      {
+        "name": "ceht.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ceht.pdf"
+      },
+      {
+        "name": "che.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/che.pdf"
+      },
+      {
+        "name": "cn.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/cn.pdf"
+      },
+      {
+        "name": "cns.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/cns.pdf"
+      },
+      {
+        "name": "co.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/co.pdf"
+      },
+      {
+        "name": "cpds.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/cpds.pdf"
+      },
+      {
+        "name": "dbms.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/dbms.pdf"
+      },
+      {
+        "name": "dem.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/dem.pdf"
+      },
+      {
+        "name": "dmgt.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/dmgt.pdf"
+      },
+      {
+        "name": "dssm.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/dssm.pdf"
+      },
+      {
+        "name": "ed.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ed.pdf"
+      },
+      {
+        "name": "ei.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ei.pdf"
+      },
+      {
+        "name": "flat.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/flat.pdf"
+      },
+      {
+        "name": "fsd.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/fsd.pdf"
+      },
+      {
+        "name": "hsem.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/hsem.pdf"
+      },
+      {
+        "name": "iot.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/iot.pdf"
+      },
+      {
+        "name": "lac.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/lac.pdf"
+      },
+      {
+        "name": "ml.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ml.pdf"
+      },
+      {
+        "name": "ob.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ob.pdf"
+      },
+      {
+        "name": "oopj.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/oopj.pdf"
+      },
+      {
+        "name": "os.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/os.pdf"
+      },
+      {
+        "name": "ppds.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ppds.pdf"
+      },
+      {
+        "name": "ps.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/ps.pdf"
+      },
+      {
+        "name": "se.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/se.pdf"
+      },
+      {
+        "name": "sp.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/sp.pdf"
+      },
+      {
+        "name": "spm.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/spm.pdf"
+      },
+      {
+        "name": "st.pdf",
+        "type": "file",
+        "path": "pdfs/Syllbus/st.pdf"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Doubt Topia - PDF Repository</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PDF Repository</h1>
+            <nav id="breadcrumbs"></nav>
+        </header>
+
+        <main>
+            <div id="file-list-container">
+                <h2>Current Folder: <span id="current-folder-name">Root</span></h2>
+                <ul id="file-list">
+                    <!-- File and folder items will be injected here by JavaScript -->
+                </ul>
+            </div>
+            <div id="pdf-viewer-container">
+                <div id="pdf-viewer-controls">
+                    <button id="fullscreen-btn" style="display: none;">Fullscreen PDF</button>
+                </div>
+                <p id="pdf-placeholder">Select a PDF to view it here.</p>
+                <iframe id="pdf-viewer" src="" frameborder="0" allowfullscreen></iframe> <!-- Added allowfullscreen -->
+            </div>
+        </main>
+
+        <footer>
+            <p>© 2023 Your Name/Doubt Topia</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
