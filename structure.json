@@ -1221,245 +1221,245 @@
                 ]
               }
             ]
+          },
+          {
+            "name": "Syllbus",
+            "type": "folder",
+            "path": "pdfs/R20/CSE/Syllbus",
+            "children": [
+              {
+                "name": "R20cse1.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse1.pdf"
+              },
+              {
+                "name": "R20cse11.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse11.pdf"
+              },
+              {
+                "name": "R20cse12.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse12.pdf"
+              },
+              {
+                "name": "R20cse2.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse2.pdf"
+              },
+              {
+                "name": "R20cse21.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse21.pdf"
+              },
+              {
+                "name": "R20cse22.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse22.pdf"
+              },
+              {
+                "name": "R20cse3.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse3.pdf"
+              },
+              {
+                "name": "R20cse31.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse31.pdf"
+              },
+              {
+                "name": "R20cse32.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse32.pdf"
+              },
+              {
+                "name": "R20cse4.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/R20cse4.pdf"
+              },
+              {
+                "name": "adsa.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/adsa.pdf"
+              },
+              {
+                "name": "ai.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ai.pdf"
+              },
+              {
+                "name": "ap.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ap.pdf"
+              },
+              {
+                "name": "beee.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/beee.pdf"
+              },
+              {
+                "name": "bt.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/bt.pdf"
+              },
+              {
+                "name": "bvlsi.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/bvlsi.pdf"
+              },
+              {
+                "name": "cc.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/cc.pdf"
+              },
+              {
+                "name": "cd.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/cd.pdf"
+              },
+              {
+                "name": "ce.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ce.pdf"
+              },
+              {
+                "name": "ceht.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ceht.pdf"
+              },
+              {
+                "name": "che.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/che.pdf"
+              },
+              {
+                "name": "cn.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/cn.pdf"
+              },
+              {
+                "name": "cns.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/cns.pdf"
+              },
+              {
+                "name": "co.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/co.pdf"
+              },
+              {
+                "name": "cpds.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/cpds.pdf"
+              },
+              {
+                "name": "dbms.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/dbms.pdf"
+              },
+              {
+                "name": "dem.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/dem.pdf"
+              },
+              {
+                "name": "dmgt.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/dmgt.pdf"
+              },
+              {
+                "name": "dssm.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/dssm.pdf"
+              },
+              {
+                "name": "ed.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ed.pdf"
+              },
+              {
+                "name": "ei.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ei.pdf"
+              },
+              {
+                "name": "flat.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/flat.pdf"
+              },
+              {
+                "name": "fsd.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/fsd.pdf"
+              },
+              {
+                "name": "hsem.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/hsem.pdf"
+              },
+              {
+                "name": "iot.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/iot.pdf"
+              },
+              {
+                "name": "lac.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/lac.pdf"
+              },
+              {
+                "name": "ml.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ml.pdf"
+              },
+              {
+                "name": "ob.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ob.pdf"
+              },
+              {
+                "name": "oopj.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/oopj.pdf"
+              },
+              {
+                "name": "os.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/os.pdf"
+              },
+              {
+                "name": "ppds.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ppds.pdf"
+              },
+              {
+                "name": "ps.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/ps.pdf"
+              },
+              {
+                "name": "se.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/se.pdf"
+              },
+              {
+                "name": "sp.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/sp.pdf"
+              },
+              {
+                "name": "spm.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/spm.pdf"
+              },
+              {
+                "name": "st.pdf",
+                "type": "file",
+                "path": "pdfs/R20/CSE/Syllbus/st.pdf"
+              }
+            ]
           }
         ]
-      }
-    ]
-  },
-  {
-    "name": "Syllbus",
-    "type": "folder",
-    "path": "pdfs/Syllbus",
-    "children": [
-      {
-        "name": "R20cse1.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse1.pdf"
-      },
-      {
-        "name": "R20cse11.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse11.pdf"
-      },
-      {
-        "name": "R20cse12.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse12.pdf"
-      },
-      {
-        "name": "R20cse2.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse2.pdf"
-      },
-      {
-        "name": "R20cse21.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse21.pdf"
-      },
-      {
-        "name": "R20cse22.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse22.pdf"
-      },
-      {
-        "name": "R20cse3.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse3.pdf"
-      },
-      {
-        "name": "R20cse31.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse31.pdf"
-      },
-      {
-        "name": "R20cse32.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse32.pdf"
-      },
-      {
-        "name": "R20cse4.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/R20cse4.pdf"
-      },
-      {
-        "name": "adsa.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/adsa.pdf"
-      },
-      {
-        "name": "ai.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ai.pdf"
-      },
-      {
-        "name": "ap.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ap.pdf"
-      },
-      {
-        "name": "beee.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/beee.pdf"
-      },
-      {
-        "name": "bt.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/bt.pdf"
-      },
-      {
-        "name": "bvlsi.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/bvlsi.pdf"
-      },
-      {
-        "name": "cc.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/cc.pdf"
-      },
-      {
-        "name": "cd.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/cd.pdf"
-      },
-      {
-        "name": "ce.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ce.pdf"
-      },
-      {
-        "name": "ceht.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ceht.pdf"
-      },
-      {
-        "name": "che.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/che.pdf"
-      },
-      {
-        "name": "cn.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/cn.pdf"
-      },
-      {
-        "name": "cns.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/cns.pdf"
-      },
-      {
-        "name": "co.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/co.pdf"
-      },
-      {
-        "name": "cpds.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/cpds.pdf"
-      },
-      {
-        "name": "dbms.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/dbms.pdf"
-      },
-      {
-        "name": "dem.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/dem.pdf"
-      },
-      {
-        "name": "dmgt.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/dmgt.pdf"
-      },
-      {
-        "name": "dssm.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/dssm.pdf"
-      },
-      {
-        "name": "ed.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ed.pdf"
-      },
-      {
-        "name": "ei.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ei.pdf"
-      },
-      {
-        "name": "flat.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/flat.pdf"
-      },
-      {
-        "name": "fsd.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/fsd.pdf"
-      },
-      {
-        "name": "hsem.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/hsem.pdf"
-      },
-      {
-        "name": "iot.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/iot.pdf"
-      },
-      {
-        "name": "lac.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/lac.pdf"
-      },
-      {
-        "name": "ml.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ml.pdf"
-      },
-      {
-        "name": "ob.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ob.pdf"
-      },
-      {
-        "name": "oopj.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/oopj.pdf"
-      },
-      {
-        "name": "os.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/os.pdf"
-      },
-      {
-        "name": "ppds.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ppds.pdf"
-      },
-      {
-        "name": "ps.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/ps.pdf"
-      },
-      {
-        "name": "se.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/se.pdf"
-      },
-      {
-        "name": "sp.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/sp.pdf"
-      },
-      {
-        "name": "spm.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/spm.pdf"
-      },
-      {
-        "name": "st.pdf",
-        "type": "file",
-        "path": "pdfs/Syllbus/st.pdf"
       }
     ]
   }
