@@ -4,12 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Doubt Topia</title>
+    <link rel="icon" href="assets/Icon_s.png" type="image/png">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>🗂️ Structured PDF Library for B.Tech Students</h1>
+            <div class="header-content">
+                <!-- Using PNG for the header logo -->
+                <img src="assets/Icon.png" alt="Logo" id="header-logo">
+                <h1>Structured PDF Library for B.Tech Students</h1>
+            </div>
             <nav id="breadcrumbs"></nav>
         </header>
 
@@ -25,16 +30,19 @@
                     <button id="fullscreen-btn" style="display: none;">Fullscreen PDF</button>
                 </div>
                 <p id="pdf-placeholder">Select a PDF to view it here.</p>
-                <iframe id="pdf-viewer" src="" frameborder="0" allowfullscreen></iframe> <!-- Added allowfullscreen -->
+                <iframe id="pdf-viewer" src="" frameborder="0" allowfullscreen></iframe>
             </div>
         </main>
 
         <footer>
-  <p>© 2025 <a href="https://sudarsansda.github.io/portfolio/" target="_blank">P Sudarsan</a></p>
-</footer>
-
+          <p>
+            Developed by <a href="https://sudarsansda.github.io/portfolio/" target="_blank" rel="noopener noreferrer">P Sudarsan</a>
+            <br>
+            © 2024 <!-- Assuming current year, adjust if needed -->
+          </p>
+        </footer>
     </div>
 
-    <script src="script.js"></script>
+    <script src="script.js"></script> <!-- Make sure script.js is the one handling fullscreen & mobile PDF opening -->
 </body>
 </html>
